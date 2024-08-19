@@ -1,11 +1,13 @@
 <h1 align="center">Hi 👋, I'm Minh Tran</h1>
 <h3 align="center">A passionate frontend developer from Vietnam</h3>
-** `Software Developer **
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=minhinh&label=Profile%20views&color=0e75b6&style=flat" alt="minhinh" /> </p>
 
 - 🔭 I’m currently working on **Swinburne University of Techonology as a student**
 
 - 🌱 I’m currently learning **Bachelor of Computer Science (Software Development)**
+
+- 💬 Ask me about **react, next or anything new about technology**
 
 - 📫 How to reach me **nhatminhtran34@gmail.com or Facebook and Linkedin below**
 
