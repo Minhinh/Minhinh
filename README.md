@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Minh Tran</h1>
-<h3 align="center">A passionate frontend developer from Vietnam</h3>
+<h3 align="center">A passionate software developer from Vietnam</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=minhinh&label=Profile%20views&color=0e75b6&style=flat" alt="minhinh" /> </p>
+<p align="center"> <img src="https://camo.githubusercontent.com/b7f7de18dcd448086afde762a2091250966ea9a28f908d7f598bfe9ad6e83eb2/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d636f62656f32303034267374796c653d666c6174266c6162656c436f6c6f723d626c61636b266c6f676f3d676974687562266c6162656c3d50524f46494c452b564945575326636f6c6f723d323962663132" alt="minhinh" /> 
+<img src="https://camo.githubusercontent.com/9e6141c6d8fb79b98ce226485b9b35433c06fca837e809cabfd03c129b996018/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f6c6173742d636f6d6d69742f636f62656f323030342f636f62656f323030343f6c6f676f3d6d61726b646f776e266c6162656c3d4c4153542b55504441544526636f6c6f723d323962663132267374796c653d666c6174" alt="minhinh" /> 
+<img src="https://komarev.com/ghpvc/?username=minhinh&label=Profile%20views&color=0e75b6&style=flat" alt="minhinh" /> </p>
 
 - 🔭 I’m currently working on **Swinburne University of Techonology as a student**
 
