@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **react, next or anything new about technology**
 
-- 📫 How to reach me **nhatminhtran34@gmail.com or Facebook and Linkedin below**
+- 📫 How to reach me **nhatminhtran34@gmail.com or Facebook and LinkedIn below**
 ##
 <h3 align="center">Connect with me:</h3>
 <p align="center">
